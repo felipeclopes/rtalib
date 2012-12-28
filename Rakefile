@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "rtalib"
   gem.homepage = "http://github.com/felipeclopes/rtalib"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Ruby Technical Analysis library with stocks indicators"
+  gem.description = "Ruby Technical Analysis library for stocks indicators. The first version includes moving_averages, macd and stochastic"
   gem.email = "felipelopes10@gmail.com"
   gem.authors = ["felipeclopes"]
   # dependencies defined in Gemfile
