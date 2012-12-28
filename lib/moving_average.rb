@@ -14,6 +14,6 @@ module Indicators
   		result << { :value => value, :ma => ma.length == opts[:period] ? sum/opts[:period] : 0 }
   	end
 
-    result
+    result    
 	end
 end
