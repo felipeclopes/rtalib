@@ -47,3 +47,15 @@ pkg
 
 # For rubinius:
 #*.rbc
+*.gem
+*.rbc
+.bundle
+.config
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
